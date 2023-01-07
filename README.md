@@ -118,7 +118,7 @@ scalar techniques such as PCM. Even though information theory implies that one c
 always obtain better performance by coding vectors instead of scalars, scalar quantizers
 have remained by far the common data compression systems because of their simplicity
 and good performance when the communication rate is sufficiently large. In addition,
-relatively few design techniques have existed for vector quantizers [7]. Even though
+relatively few design techniques have existed for vector quantizers. Even though
 there are other technique for pattern matching but Vector quantization is considered as
 one of the best approach for its flexibility in training as well as recognizing. 
 
