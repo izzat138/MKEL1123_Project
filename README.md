@@ -53,12 +53,9 @@ trained personnel in Malaysia who are able to translate these speeches to Sign L
 These had caused those with hearing disabilities to know less on the ongoing
 news around them. The objectives of this research are three folds:
 
-<br>
+
     1. To ease the communication between normal people and the hearing/ speech disabled.
-<br>
-  ~~2. To eliminate the need of attending costly Sign Language classes – it can be done at home.~~
-<br>    
-    3. To be able to reach more audience (hearing impaired) during speeches and campaigns.
+    2. To be able to reach more audience (hearing impaired) during speeches and campaigns.
 
 
 
