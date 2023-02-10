@@ -1,5 +1,4 @@
-# stm32-speech-recognition-and-sign-language-translation
-#### A quantitative report of audio recording quality
+# stm32-speech-to-sign-language-translation
 
 *Last updated January 2023*
 
