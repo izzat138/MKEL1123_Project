@@ -1,8 +1,0 @@
-../Core/Src/main.c:760:13:MX_USART2_UART_Init	8	static,ignoring_inline_asm
-../Core/Src/main.c:208:6:preprocess_audio	32	static
-../Core/Src/main.c:249:6:recognize_commands	24	static
-../Core/Src/main.c:580:6:SystemClock_Config	88	static,ignoring_inline_asm
-../Core/Src/main.c:850:6:preprocessing_init	48	static
-../Core/Src/main.c:924:6:stop_mode	8	static
-../Core/Src/main.c:408:5:main	21568	static,ignoring_inline_asm
-../Core/Src/main.c:949:6:Error_Handler	0	static,ignoring_inline_asm
