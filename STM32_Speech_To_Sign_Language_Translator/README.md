@@ -52,7 +52,7 @@ This section outlines the methodology used to create and test the project.
 
 #### 2.1 Setup Project Resources
 
-#### ![image](https://user-images.githubusercontent.com/106621749/218191760-23ab3186-9e24-4ea2-8d92-ca20767bc0b2.png) Figure 1
+#### ![image](https://user-images.githubusercontent.com/106621749/218191760-23ab3186-9e24-4ea2-8d92-ca20767bc0b2.png) Figure 1 Project Configurations
 
 Software packages used: STM32Cube MCU Package for STM32F4 Series v1.27.1, X-CUBE-AI Artificial Intelligence 7.3.0
 
@@ -63,11 +63,13 @@ Protocols and peripherals used: SPI, I2S, PDM2PCM, DMA, USART
 
 A pretrained speech recognition model is obtained online and loaded into the project configuration.
 
-##### ![image](https://user-images.githubusercontent.com/106621749/218196100-92d0e8e7-4136-4b83-91e6-0ca2a29f50f7.png) Figure 2
+##### ![image](https://user-images.githubusercontent.com/106621749/218196100-92d0e8e7-4136-4b83-91e6-0ca2a29f50f7.png) Figure 2 Pretrained TFLife Model
+
 
 Once uploaded, the model is analyzed and validated on desktop.
 
-#### ![image](https://user-images.githubusercontent.com/106621749/218196890-b0f38491-d7e8-4732-80f5-6b8e43fe1a38.png) Figure 3
+
+#### ![image](https://user-images.githubusercontent.com/106621749/218196890-b0f38491-d7e8-4732-80f5-6b8e43fe1a38.png) Figure 3 STM32 X-CUBE AI Configuration
 
 
 
