@@ -55,6 +55,7 @@ This section outlines the methodology used to create and test the project.
 #### ![image](https://user-images.githubusercontent.com/106621749/218191760-23ab3186-9e24-4ea2-8d92-ca20767bc0b2.png) Figure 1
 
 Software packages used: STM32Cube MCU Package for STM32F4 Series v1.27.1, X-CUBE-AI Artificial Intelligence 7.3.0
+
 Protocols and peripherals used: SPI, I2S, PDM2PCM, DMA, USART
 
 
