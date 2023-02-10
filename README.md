@@ -1,4 +1,4 @@
-# stm32-speech-to-sign-language-translation
+# stm32-speech-to-sign-language-translator
 
 *Last updated January 2023*
 
