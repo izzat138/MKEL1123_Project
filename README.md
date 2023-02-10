@@ -131,14 +131,10 @@ one of the best approach for its flexibility in training as well as recognizing.
 
 #### 1.4 Built With
 
-* [TensorFlow Lite](https://www.tensorflow.org/lite/microcontrollers)
-* [Google Colaboratory](https://colab.research.google.com/)
 * [BSP](https://www.st.com/resource/en/user_manual/dm00440740-stm32cube-bsp-drivers-development-guidelines-stmicroelectronics.pdf)
 * [PDM2PCM](https://www.st.com/resource/en/user_manual/um2372-stm32cube-pdm2pcm-software-library-for-the-stm32f4f7h7-series-stmicroelectronics.pdf)
 * [STM32_AI_AudioPreprocessing_Library](https://www.st.com/en/embedded-software/stm32-audio100a.html)
 * [CMSIS DSP](https://developer.arm.com/tools-and-software/embedded/cmsis)
 * [X-CUBE AI](https://www.st.com/en/embedded-software/x-cube-ai.html)
-* [Picocom](https://linux.die.net/man/8/picocom)
-
 
 
