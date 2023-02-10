@@ -65,13 +65,13 @@ A pretrained speech recognition model is obtained online and loaded into the pro
 
 ##### ![image](https://user-images.githubusercontent.com/106621749/218196100-92d0e8e7-4136-4b83-91e6-0ca2a29f50f7.png) 
 
-Figure 2 Pretrained TFLife Model
+#### Figure 2 Pretrained TFLife Model
 
 Once uploaded, the model is analyzed and validated on desktop.
 
 #### ![image](https://user-images.githubusercontent.com/106621749/218196890-b0f38491-d7e8-4732-80f5-6b8e43fe1a38.png) 
 
-Figure 3 STM32 X-CUBE AI Configuration
+#### Figure 3 STM32 X-CUBE AI Configuration
 
 
 
